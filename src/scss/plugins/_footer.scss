@@ -1,0 +1,36 @@
+
+ .footer .container{
+    display:flex;
+	justify-content:space-between;
+	margin-top:64px;
+	height:150px;
+	background-color:#262626;
+ }
+ 
+ .footer_item{
+	padding-top:60px;
+ }
+  .footer_item .disign p{
+    margin-right:none;
+  }
+ 
+ .footer_item p{
+   color:$white;
+ }
+ .disign_author{
+  background-color:$black;
+  padding:14px 14px;
+  margin-top:5px;
+  margin-left:-10px;
+}
+ .disign_author p{
+  color:$white;
+ }
+ .social_icon{
+   margin-top:5px;
+   margin-left:-10px;
+ }
+ i{
+  background-color:$black;
+  padding:10px 10px;
+ }
